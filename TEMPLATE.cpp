@@ -1,7 +1,7 @@
 /*
     Krishna Mohan
-    Project Euler - Problem 1
-    Date: 3/18/2015
+    Project Euler - Problem 4
+    Date: 3/24/2015
 */
 #include <bits/stdc++.h>
 
